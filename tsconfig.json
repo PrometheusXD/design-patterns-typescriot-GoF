@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "ES2019",
     "module": "CommonJS",
-    "lib": ["ESNext","DOM"],
+    "lib": ["ESNext", "DOM"],
     "outDir": "./dist",
     "rootDir": "./src",
     "removeComments": true,
